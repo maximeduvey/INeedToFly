@@ -1,1 +1,6 @@
-https://www.planete-sciences.org/espace/Minifusee/Presentation
+https://www.tripoli.org/
+https://www.rocketryforum.com/threads/sticky-list-of-useful-web-links-with-tons-of-information.539/
+https://eurospacetechnology.eu/index.php?id_category=200&controller=category
+https://www.physicsclassroom.com/class/circles/Lesson-3/The-Value-of-g
+https://www.apogeerockets.com/Education
+https://www.nar.org/
