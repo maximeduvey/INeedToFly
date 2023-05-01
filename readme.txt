@@ -13,3 +13,6 @@ https://eurospacetechnology.eu/index.php?id_category=200&controller=category
 https://www.physicsclassroom.com/class/circles/Lesson-3/The-Value-of-g
 https://www.apogeerockets.com/Education
 https://www.nar.org/
+
+Parachute : 
+Ripstop (70cm Diametre) : wind-r.com
