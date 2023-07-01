@@ -16,3 +16,5 @@ https://www.nar.org/
 
 Parachute : 
 Ripstop (70cm Diametre) : wind-r.com
+
+!!! we passed on Onshape for our 3D modeling
