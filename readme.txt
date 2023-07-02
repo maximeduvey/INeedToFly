@@ -18,3 +18,9 @@ Parachute :
 Ripstop (70cm Diametre) : wind-r.com
 
 !!! we passed on Onshape for our 3D modeling
+
+
+https://www.apogeerockets.com/downloads/PDFs/Tech_Pub_28.pdf
+https://www.apogeerockets.com/New-to-Model-Rocketry?m=quickmenu
+
+https://www.apogeerockets.com/Rocket-Motor-Basics-Quick-Start-Guide#nomenclature
